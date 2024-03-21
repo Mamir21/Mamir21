@@ -32,14 +32,16 @@
 <a href="https://www.linkedin.com/in/muhammad-amir-105a52294/" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="https://www.linkedin.com/in/samith-hasan/" /></a>
 </p>
 
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Mamir21&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Mamir21" /></p>
+
+<h3 align="left">LeetCode:</h3>
+<div>
+  
+  <img style="float: right; width: 500px; height: 300px;" src="https://leetcard.jacoblin.cool/umairamir1127?theme=dark&font=Noto%20Sans%20New%20Tai%20Lue&ext=heatmap"/>
+</div>
+
 <div align="center">
 
 
-<h2> My contributions</h2>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SHasan59/SHasan59/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-
-
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
