@@ -5,6 +5,9 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
@@ -17,6 +20,8 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
@@ -25,6 +30,11 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg">
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -32,7 +42,14 @@
 <a href="https://www.linkedin.com/in/muhammad-amir-105a52294/" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="https://www.linkedin.com/in/samith-hasan/" /></a>
 </p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Mamir21&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Mamir21" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Mamir21&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Mamir21&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Mamir21&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <h3 align="left">LeetCode:</h3>
 <div>
@@ -41,7 +58,13 @@
 </div>
 
 <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mamir21/Mamir21/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
