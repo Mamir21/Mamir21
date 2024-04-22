@@ -37,10 +37,21 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg">
 </p>
 
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-amir-105a52294/" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="https://www.linkedin.com/in/samith-hasan/" /></a>
+<div align="left"> 
+  <a href="muhammad:umair.amir.umairamir290@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/muhammad-amir-105a52294" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://Mamir21.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
 </p>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -51,11 +62,13 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Mamir21&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+
 <h3 align="left">LeetCode:</h3>
 <div>
   
   <img style="float: right; width: 500px; height: 300px;" src="https://leetcard.jacoblin.cool/umairamir1127?theme=dark&font=Noto%20Sans%20New%20Tai%20Lue&ext=heatmap"/>
 </div>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -65,6 +78,7 @@
   <br/><br/><br/>
 </div>
 
+ 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
