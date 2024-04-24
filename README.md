@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header" />
 
 
@@ -73,9 +74,10 @@
 
 
 <div align="center">
+
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mamir21/Mamir21/output/github-contribution-grid-snake.svg" />
   
-
-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
