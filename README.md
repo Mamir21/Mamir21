@@ -80,4 +80,4 @@
   
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&section=footer" />
