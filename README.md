@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header" />
 
+
 <h1 align="center">Hi, Im Muhammad</h1>
 <h3 align="center">Full Stack Software Developer</h3>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -75,10 +77,8 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mamir21/Mamir21/output/github-contribution-grid-snake.svg" />
-
 </div>
 
- 
-<div align="center">
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
