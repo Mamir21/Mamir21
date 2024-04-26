@@ -72,6 +72,7 @@
   <img style="float: right; width: 500px; height: 300px;" src="https://leetcard.jacoblin.cool/umairamir1127?theme=dark&font=Noto%20Sans%20New%20Tai%20Lue&ext=heatmap"/>
 </div>
 
+
 <div align="center">
 
   <h2>🐍 My Contributions 🐍</h2>
