@@ -68,6 +68,10 @@
 
 <br>
 
+<h2> My contributions</h2>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eagrundy/eagrundy/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" width="1000" height="600">
+
 <br>
 
 <div align="center">
