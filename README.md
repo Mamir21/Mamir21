@@ -7,7 +7,7 @@
 <br>
 
 <h3 align="left">Languages:</h3> 
-  <p align="left">
+  <p align="left"> 
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
