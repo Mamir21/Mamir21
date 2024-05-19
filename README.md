@@ -69,7 +69,11 @@
 <br>
 
 <h2> My contributions</h2>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eagrundy/eagrundy/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mamir21/Mamir21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mamir21/Mamir21/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mamir21/Mamir21/output/github-contribution-grid-snake.svg">
+</picture>
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" width="1000" height="600">
 
 <br>
