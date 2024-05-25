@@ -3,7 +3,6 @@
 
 <h1 align="center">Hi, Im Muhammad</h1> 
 <h3 align="center">Full Stack Software Developer</h3>
-
 <br>
 
 <h3 align="left">Languages:</h3> 
