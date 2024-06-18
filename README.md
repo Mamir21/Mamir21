@@ -74,7 +74,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mamir21/Mamir21/output/github-contribution-grid-snake.svg">
 </picture>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamir21&&bg_color=00000&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamir21&&bg_color=00000&hide_border=true" width="100%"/>
 
 <br>
 
