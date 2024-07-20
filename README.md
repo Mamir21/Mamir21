@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi, Im Muhammad</h1>
 <h3 align="center">Full Stack Software Developer</h3>
+
 <br>
 
 <h3 align="left">Languages:</h3>
@@ -80,3 +81,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&section=footer" />
+</div>
