@@ -13,6 +13,8 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"> 
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"> 
@@ -22,6 +24,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier1.svg">
@@ -32,12 +35,14 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg">
+    <!-- <img src=""> -->
   </p>
 
 <br />
