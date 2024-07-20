@@ -2,11 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header" />
 
 <h1 align="center">Hi, Im Muhammad</h1>
-<h3 align="center">Full Stack Software Developer</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
-<br>
+<br />
 
-<h3 align="left">Languages:</h3>
+<h2 align="center">🕮 Languages 🕮</h2>
   <p align="left">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg">
@@ -40,16 +40,19 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg">
   </p>
 
-<br>
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<div align="left"> 
-  <a href="mailto:umairamir290@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>  
-  <a href="https://linkedin.com/in/muhammad-amir-105a52294" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a>
-  <a href="https://Mamir21.github.io" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> </a>
+<h2 align="center">✨ Connect with me ✨</h2>
+<div align="center">
+  <a href="*"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" /> </a>
+  <a href="mailto:umairamir290@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg" /> </a>
+  <a href="https://linkedin.com/in/muhammad-amir-105a52294"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" /> </a>
+  <a href="mailto:muhammad.amir56@bcmail.cuny.edu"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook1.svg" /> </a>
+  <a href="https://discord.com/users/savaqe_"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" /> </a>
+  
 </div>
 
-<br>
+<br />
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
@@ -58,17 +61,21 @@
   <br>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Mamir21&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   
-<br>
+<br />
+<br />
+<br />
 
-<h3 align="left">LeetCode:</h3>
+<h2 align="center">🔥 LeetCode 🔥</h2>
 <div>
   <img style="float: left; width: 400px;  height: 250px;" src="https://leetcode-badge-showcase.vercel.app/api?username=umairamir1127&theme=tokyonight" alt="LeetCode Badges"/>
   <img style="float: right; width: 400px; height: 250px;" src="https://leetcard.jacoblin.cool/umairamir1127?theme=dark&font=Noto%20Sans%20New%20Tai%20Lue&ext=heatmap"/>
 </div>
 
-<br>
+<br />
+<br />
+<br />
 
-<h2> My contributions</h2>
+<h2>🌎 My contributions 🌎</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mamir21/Mamir21/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mamir21/Mamir21/output/github-contribution-grid-snake.svg">
