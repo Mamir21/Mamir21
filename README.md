@@ -34,7 +34,6 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg">
