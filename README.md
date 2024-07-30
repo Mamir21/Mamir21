@@ -48,9 +48,10 @@
 
 <h2 align="center">✨ Connect with me ✨</h2>
 <div align="center">
-  <a href="https://www.muhammadamir.tech" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" />
-  </a>
+ <a href="https://www.muhammadamir.tech" target="_blank">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" />
+</a>
+
   <a href="mailto:umairamir290@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg" /> </a>
   <a href="https://linkedin.com/in/muhammad-amir-105a52294"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" /> </a>
   <a href="mailto:muhammad.amir56@bcmail.cuny.edu"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook1.svg" /> </a>
