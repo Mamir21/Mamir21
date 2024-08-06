@@ -68,13 +68,13 @@
 <br />
 <br />
 <br />
-
+<!--
 <h2 align="center">🔥 LeetCode 🔥</h2>
 <div>
   <img style="float: left; width: 400px;  height: 250px;" src="https://leetcode-badge-showcase.vercel.app/api?username=umairamir1127&theme=tokyonight" alt="LeetCode Badges"/>
   <img style="float: right; width: 400px; height: 250px;" src="https://leetcard.jacoblin.cool/umairamir1127?theme=dark&font=Noto%20Sans%20New%20Tai%20Lue&ext=heatmap"/>
 </div>
-
+--->
 <br />
 <br />
 <br />
