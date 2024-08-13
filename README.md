@@ -23,10 +23,13 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg">
@@ -40,8 +43,11 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg">
     <!-- <img src=""> -->
+    
+
   </p>
 
 <br />
