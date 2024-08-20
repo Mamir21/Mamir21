@@ -26,6 +26,10 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      # Create the directory for the generated SVG files
+      - name: Create output directory
+        run: mkdir -p dist
+
       # Generate the snake game SVG based on the GitHub user's contribution graph
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
