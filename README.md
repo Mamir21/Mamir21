@@ -106,7 +106,7 @@
 
 <h2>🌎 My contributions 🌎</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mamir21/Mamir21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mamir21/Mamir21/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mamir21/Mamir21/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mamir21/Mamir21/output/github-contribution-grid-snake.svg">
 </picture>
