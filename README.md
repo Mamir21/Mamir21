@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header" />
 
-<h1 align="center">Hi, Im Muhammad</h1>
+<h1 align="center">Hi, I'm Muhammad</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <br />
