@@ -12,7 +12,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"> 
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
